@@ -150,4 +150,4 @@ For major changes, please open an issue first to discuss your ideas.
 This project is licensed under the [MIT License][mit-license]. See the LICENSE file for details.
 
 [open-ai]: <https://openai.com/>
-[mit-license]: <https://github.com/solutions-for-realvalue/TechStackAdvisor/blob/main/LICENSE>
+[mit-license]: <https://github.com/solutions-for-realvalue/AI-AgentAdviser/blob/main/LICENSE>
