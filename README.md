@@ -28,8 +28,8 @@
 - [Installation](#-installation)
 - [OpenAI API Key Setup](#-openai-api-key-setup)
 - [Usage](#-usage)
-- [Contributing](#%F0%9F%A4%9D-contributing)
-- [License](#%F0%9F%93%9C-license)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
