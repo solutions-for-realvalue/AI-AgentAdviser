@@ -28,8 +28,8 @@
 - [Installation](#-installation)
 - [OpenAI API Key Setup](#-openai-api-key-setup)
 - [Usage](#-usage)
-- [Contributing](#%F0%9F%A4%9D-contributing)
-- [License](#%F0%9F%93%9C-license)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -150,4 +150,4 @@ For major changes, please open an issue first to discuss your ideas.
 This project is licensed under the [MIT License][mit-license]. See the LICENSE file for details.
 
 [open-ai]: <https://openai.com/>
-[mit-license]: <https://github.com/solutions-for-realvalue/TechStackAdvisor/blob/main/LICENSE>
+[mit-license]: <https://github.com/solutions-for-realvalue/AI-AgentAdviser/blob/main/LICENSE>
